@@ -9,7 +9,7 @@ class person{
     }
     name1(){
         console.log(`The teacher is called ${this._name}`);
-    }
+    
 
 }
 let person2 = new person("Sam", "Male", "44", "Football", "Hello", "Welcome");
